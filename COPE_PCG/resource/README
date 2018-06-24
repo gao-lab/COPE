@@ -1,0 +1,13 @@
+
+This maxentscan directory is download from http://genes.mit.edu/burgelab/maxent/download/.
+
+## refseq genemodel download from UCSC Table Browser
+
+## ensembl gene model
+GRCh38 comes from Homo_sapiens.GRCh38.84.gtf (download from Ensembl)
+GRCh37  comes from  Homo_sapiens.GRCh37.75.gtf
+we only kept protein_coding transcripts
+
+## reference genome
+hg19.fa -> human_g1k_v37_modifyChr.fasta
+hg38.fa -> hg38.ucsc.fa
