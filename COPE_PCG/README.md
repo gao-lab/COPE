@@ -1,5 +1,8 @@
 # Manual for COPE-PCG
 
+## Attention
+In the folder "resource", the file "hg38.fa" is required. The download link will be attached here later. 
+
 ## Requrements
 
 COPE is mainly written by Perl. Several Perl modules are required as followed.
