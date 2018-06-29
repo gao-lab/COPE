@@ -1,5 +1,8 @@
 # Manual for COPE-TFBS
 
+## Attention
+In the folder "data", the file "ENCODE.tf.bound.union.sorted.bed.gz" is required. The download link will be attached here later.
+
 ## Requrements
 
 COPE-TFBS is written by Perl. Several Perl modules and other tools are required as followed.
